@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Operating-system-knowledge-summary
-date: 2019-06-26 11:07:40 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
+date: 2019-06-26 11:25:40 +0800
+description: 这篇博客涵盖了操作系统基础、内存管理、进程管理、文件操作等知识。
 tags: [Operating System]
 ---
 

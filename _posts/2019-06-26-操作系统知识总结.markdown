@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Operating-system-knowledge-summary
+title: 操作系统知识总结
 date: 2019-06-26 11:25:40 +0800
-excerpt: This blog covers the basics of operating system, memory management, process management, file operations and more.
+excerpt: 这篇博客涵盖了操作系统基础、内存管理、进程管理、文件系统等内容
 author: 霜月初六
 img:  # Add image post (optional)
 tags: [Operating System]

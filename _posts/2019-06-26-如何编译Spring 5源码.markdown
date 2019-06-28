@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to compile Spring 5 source code
+title: 如何编译Spring 5源码
 date: 2019-06-26 14:13:24 +0800
-excerpt: This blog describes in detail the Spring 5 source compilation process.
+excerpt: 这篇博客详细介绍了Spring 5源码的编译过程
 author: 霜月初六
 img:  # Add image post (optional)
 tags: [Spring]

@@ -4,7 +4,7 @@ title: 如何编译Spring 5源码
 date: 2019-06-26 14:13:24 +0800
 excerpt: 这篇博客详细介绍了Spring 5源码的编译过程
 author: 霜月初六
-img:  # Add image post (optional)
+img:  spring.png # Add image post (optional)
 tags: [Spring]
 ---
 

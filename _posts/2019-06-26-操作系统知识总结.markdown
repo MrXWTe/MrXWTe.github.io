@@ -4,7 +4,7 @@ title: 操作系统知识总结
 date: 2019-06-26 11:25:40 +0800
 excerpt: 这篇博客涵盖了操作系统基础、内存管理、进程管理、文件系统等内容
 author: 霜月初六
-img:  # Add image post (optional)
+img:  ubuntu.png # Add image post (optional)
 tags: [Operating System]
 ---
 

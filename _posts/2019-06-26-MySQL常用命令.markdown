@@ -4,7 +4,7 @@ title: MySQL常用命令
 date: 2019-06-26 21:00:36 +0800
 excerpt: 这篇博客涵盖了MySQL的常用命令
 author: 霜月初六
-img:  mysql.png# Add image post (optional)
+img:  mysql2.png # Add image post (optional)
 tags: [MySQL]
 ---
 
